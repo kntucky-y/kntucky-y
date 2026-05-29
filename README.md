@@ -4,6 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=kntucky-y&color=fb4362)
 
+<h3>About me</h3>
+
+- 2nd-year Computer Science student from Cebu, Philippines.
+- Building and shipping full-stack applications across mobile, web, and desktop.
+- Focused on AI automation and LLM integration as a career path.
+
 <h3>Things I use</h3>
 <p>
 	<img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -51,15 +57,11 @@
 	<img alt="Visual Studio 2022" src="https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
 </p>
 
-<h3>My most recent articles</h3>
-<ul>
-	<li><i>Coming soon</i></li>
-	<li><i>Coming soon</i></li>
-	<li><i>Coming soon</i></li>
-</ul>
+<h3>GitHub activity</h3>
 
-<h3>My GitHub contributions summary</h3>
+[![kntucky-y's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kntucky-y&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kntucky-y&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![kntucky-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=kntucky-y&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<p>
+	<img height="165" alt="kntucky-y GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kntucky-y&show_icons=true&theme=transparent&hide_border=true" />
+	<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kntucky-y&layout=compact&theme=transparent&hide_border=true" />
+</p>
