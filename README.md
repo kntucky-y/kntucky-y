@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm kntucky-y!
+### 🚀 Building full-stack products from Cebu, PH
 
 ---
 
