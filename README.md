@@ -1,9 +1,3 @@
-### AI automation engineer in the making
-
----
-
-![](https://komarev.com/ghpvc/?username=kntucky-y&color=fb4362)
-
 <h3>About me</h3>
 
 - 2nd-year Computer Science student from Cebu, Philippines.
@@ -67,3 +61,5 @@
 	<img height="165" alt="kntucky-y GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kntucky-y&show_icons=true&theme=transparent&hide_border=true" />
 	<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kntucky-y&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=kntucky-y&color=fb4362)
