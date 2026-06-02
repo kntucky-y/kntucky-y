@@ -2,7 +2,7 @@
 
 - 2nd-year Computer Science student from Cebu, Philippines.
 - Building and shipping full-stack applications across mobile, web, and desktop.
-- Focused on AI automation and LLM integration as a career path.
+- Focused on AI automation and LLM integration.
 
 <h3>Things I use</h3>
 <h4>Languages</h4>
