@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-- 2nd-year Computer Science student from Cebu, Philippines.
+- 3rd-year Computer Science student from Cebu, Philippines.
 - Building and shipping full-stack applications across mobile, web, and desktop.
 - Focused on AI automation and LLM integration.
 
